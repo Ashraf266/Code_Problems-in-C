@@ -1,0 +1,2 @@
+Write a C Function that calculate the Fibonacci series number using its index
+The Fibonacci Series : 0,1,1,2,3,5,8,13,21,…
